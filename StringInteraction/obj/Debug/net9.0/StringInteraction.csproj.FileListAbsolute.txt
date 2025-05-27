@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\bin\Debug\net9.0\StringInteraction.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\bin\Debug\net9.0\StringInteraction.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\bin\Debug\net9.0\StringInteraction.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\bin\Debug\net9.0\StringInteraction.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\bin\Debug\net9.0\StringInteraction.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\refint\StringInteraction.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\StringInteraction.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\StringInteraction\obj\Debug\net9.0\ref\StringInteraction.dll

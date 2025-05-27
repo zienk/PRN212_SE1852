@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\bin\Release\net9.0\FirstDegree.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\bin\Release\net9.0\FirstDegree.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\bin\Release\net9.0\FirstDegree.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\bin\Release\net9.0\FirstDegree.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\bin\Release\net9.0\FirstDegree.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\refint\FirstDegree.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\FirstDegree.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\FirstDegree\obj\Release\net9.0\ref\FirstDegree.dll

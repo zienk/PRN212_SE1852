@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\bin\Debug\net9.0\CallByReference.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\refint\CallByReference.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\CallByReference.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\CallByReference\obj\Debug\net9.0\ref\CallByReference.dll

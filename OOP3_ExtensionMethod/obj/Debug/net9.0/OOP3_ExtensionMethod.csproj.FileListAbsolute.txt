@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\refint\OOP3_ExtensionMethod.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\ref\OOP3_ExtensionMethod.dll

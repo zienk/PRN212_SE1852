@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\bin\Debug\net9.0\ReviewNestedLoop.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\refint\ReviewNestedLoop.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ReviewNestedLoop.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewNestedLoop\obj\Debug\net9.0\ref\ReviewNestedLoop.dll

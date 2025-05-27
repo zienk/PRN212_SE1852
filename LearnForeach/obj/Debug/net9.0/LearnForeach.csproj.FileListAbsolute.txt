@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\refint\LearnForeach.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\ref\LearnForeach.dll

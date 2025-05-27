@@ -1,0 +1,14 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\bin\Debug\net9.0\ReviewFor.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\refint\ReviewFor.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ReviewFor.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\ReviewFor\obj\Debug\net9.0\ref\ReviewFor.dll
