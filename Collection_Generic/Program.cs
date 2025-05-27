@@ -120,7 +120,11 @@ else
 //        e.BirthDay = DateTime.Parse(Console.ReadLine());
 //    }
 //}
+
+//In lại ds sau khi update
+Console.WriteLine("Danh sách sau khi update");
 employees.ForEach(e => Console.WriteLine(e));
+
 //Câu 5: Xóa thông tin nhân viên (D - Delete)
 Console.WriteLine("------Nhập Id nhân viên cần xóa thông tin----");
 int idToDelete;
@@ -135,3 +139,7 @@ else
 {
     Console.WriteLine("Không tìm thấy nhân viên với Id: " + idToDelete);
 }
+
+//In lại ds sau khi delete
+Console.WriteLine("Danh sách sau khi delete");
+employees.ForEach(e => Console.WriteLine(e));

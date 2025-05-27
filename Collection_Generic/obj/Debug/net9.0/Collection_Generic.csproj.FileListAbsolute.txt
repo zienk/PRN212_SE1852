@@ -19,3 +19,4 @@ C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\Collection_Gene
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\Collection_Generic\obj\Debug\net9.0\Collection_Generic.pdb
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\Collection_Generic\obj\Debug\net9.0\Collection_Generic.genruntimeconfig.cache
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\Collection_Generic\obj\Debug\net9.0\ref\Collection_Generic.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\Collection_Generic\obj\Debug\net9.0\Collection_Generic.sourcelink.json
