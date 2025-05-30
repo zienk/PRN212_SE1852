@@ -1,0 +1,15 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.sourcelink.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\refint\OOP4_Dictionary.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\ref\OOP4_Dictionary.dll
