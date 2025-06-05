@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD5265-73ED-4E7D-941D-5C89A9BF3802}|DemoLinQToObject2\\DemoLinQToObject2.csproj|c:\\users\\zienk\\desktop\\su2025\\prn212\\code_tren_lop\\prn212_se1852\\demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD5265-73ED-4E7D-941D-5C89A9BF3802}|DemoLinQToObject2\\DemoLinQToObject2.csproj|solutionrelative:demolinqtoobject2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD5265-73ED-4E7D-941D-5C89A9BF3802}|DemoLinQToObject2\\DemoLinQToObject2.csproj|c:\\users\\zienk\\desktop\\su2025\\prn212\\code_tren_lop\\prn212_se1852\\demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD5265-73ED-4E7D-941D-5C89A9BF3802}|DemoLinQToObject2\\DemoLinQToObject2.csproj|solutionrelative:demolinqtoobject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DemoLinQToObject2\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLinQToObject2\\Program.cs",
+              "ToolTip": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DemoLinQToObject2\\Program.cs",
+              "RelativeToolTip": "DemoLinQToObject2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:31:40.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DemoLinQToObject2\\ListProduct.cs",
+              "RelativeDocumentMoniker": "DemoLinQToObject2\\ListProduct.cs",
+              "ToolTip": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DemoLinQToObject2\\ListProduct.cs",
+              "RelativeToolTip": "DemoLinQToObject2\\ListProduct.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:20:28.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

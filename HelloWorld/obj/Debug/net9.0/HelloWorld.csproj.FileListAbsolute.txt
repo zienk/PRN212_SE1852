@@ -12,3 +12,4 @@ C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\HelloWorld\obj\
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json

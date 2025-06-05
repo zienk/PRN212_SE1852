@@ -1,0 +1,15 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\bin\Debug\net9.0\DemoLinQToObject.exe
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\bin\Debug\net9.0\DemoLinQToObject.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\bin\Debug\net9.0\DemoLinQToObject.runtimeconfig.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\bin\Debug\net9.0\DemoLinQToObject.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\bin\Debug\net9.0\DemoLinQToObject.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.sourcelink.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\refint\DemoLinQToObject.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\DemoLinQToObject.genruntimeconfig.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DemoLinQToObject\obj\Debug\net9.0\ref\DemoLinQToObject.dll
