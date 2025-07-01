@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\UserManagementWpfApp\\SampleManagementWpfApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj",
+        "projectName": "BusinessObject",
+        "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\zienk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zienk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\DataAcessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\DataAcessLayer.csproj",
+        "projectName": "DataAcessLayer",
+        "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\zienk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zienk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\zienk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zienk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj"
+              },
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\DataAcessLayer.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\DataAcessLayer\\DataAcessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\zienk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zienk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj"
+              },
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\UserManagementWpfApp\\SampleManagementWpfApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\UserManagementWpfApp\\SampleManagementWpfApp.csproj",
+        "projectName": "SampleManagementWpfApp",
+        "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\UserManagementWpfApp\\SampleManagementWpfApp.csproj",
+        "packagesPath": "C:\\Users\\zienk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\UserManagementWpfApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zienk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\BusinessObject\\BusinessObject.csproj"
+              },
+              "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\zienk\\Desktop\\SU2025\\PRN212\\CODE_TREN_LOP\\PRN212_SE1852\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

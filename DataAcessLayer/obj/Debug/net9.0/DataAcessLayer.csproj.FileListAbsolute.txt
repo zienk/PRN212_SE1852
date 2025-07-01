@@ -1,0 +1,16 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\bin\Debug\net9.0\DataAcessLayer.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\bin\Debug\net9.0\BusinessObject.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\bin\Debug\net9.0\BusinessObject.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.sourcelink.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAces.3D70AC44.Up2Date
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\refint\DataAcessLayer.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\DataAcessLayer.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\DataAcessLayer\obj\Debug\net9.0\ref\DataAcessLayer.dll
