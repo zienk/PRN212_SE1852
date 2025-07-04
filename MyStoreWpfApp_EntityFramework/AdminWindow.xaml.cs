@@ -78,7 +78,7 @@ namespace MyStoreWpfApp_EntityFramework
                 Category category = item.Tag as Category;
                 if (category != null)
                 {
-                    LoadProductList(category);
+                    LoadProductListByCategory(category);
                 }
             }
             isLoadListviewCompleted = true;
@@ -88,7 +88,7 @@ namespace MyStoreWpfApp_EntityFramework
         {
             if (isLoadListviewCompleted == false) return;
 
-            if (e.AddedItems.Count < 0) return;
+            if (e.AddedItems.Count == 0) return;
 
             Product p = e.AddedItems[0] as Product;
 
@@ -153,15 +153,22 @@ namespace MyStoreWpfApp_EntityFramework
             _context.SaveChanges();
             MessageBox.Show("Đã thêm sp thành công");
 
-            DisplayCategoriesAndProducts();
+            //Đưa Node Sản phẩm vào Node danh mục
 
-            LoadProductList(category);
+            TreeViewItem product_node = new TreeViewItem();
+            product_node.Header = p.ProductName;
+            //product_node.Tag = p;
+            tvItem.Items.Add(product_node);
+            tvItem.ExpandSubtree();
 
+            //DisplayCategoriesAndProducts();
+
+            //Hiển thị danh sách sp theo node danh mục
+            LoadProductListByCategory(category);
             
-
         }
 
-        private void LoadProductList(Category category)
+        private void LoadProductListByCategory(Category category)
         {
             var products = _context.Products
                     .Where(p => p.CategoryId == category.CategoryId)
@@ -170,5 +177,67 @@ namespace MyStoreWpfApp_EntityFramework
             lvProduct.ItemsSource = products;
         }
 
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            //isLoadListviewCompleted = false;
+            //Chức năng update sp
+            //Bước 1: Phải tìm ra sp muốn sửa trc
+            int id = int.Parse(txtMa.Text);
+            Product product = _context.Products.FirstOrDefault(p => p.ProductId == id);
+
+            if (product == null)
+            {
+                MessageBox.Show("Không tìm thấy sản phẩm cần sửa", "Lỗi",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            //Bước 2: Tiến hành đổi giá trị các thuộc tính của đối tượng
+            //Chính là đổi dữ liệu từng cell trong mỗi dòng của Table Product
+            product.ProductName = txtTen.Text;
+            product.UnitsInStock = short.Parse(txtSoLuong.Text);
+            product.UnitPrice = decimal.Parse(txtDonGia.Text);
+
+            //Bước 3: đánh dấu xác nhận sửa
+            _context.SaveChanges();
+
+            //Bước 4: cập nhật lại cây và listview
+            Category category = _context.Categories.FirstOrDefault(c => c.CategoryId == product.CategoryId);
+
+            LoadProductListByCategory(category);
+
+            DisplayCategoriesAndProducts();
+            //isLoadListviewCompleted = true;
+        }
+
+        private void btnDelete_Click(object sender, RoutedEventArgs e)
+        {
+            //Xóa sp 
+            //Bước 1: tím sp cần xóa
+            int id = int.Parse(txtMa.Text);
+            Product product = _context.Products.FirstOrDefault(p => p.ProductId == id);
+            
+            if(product == null)
+            {
+                MessageBox.Show("Ko tồn tại sp để xóa", "Xóa lỗi",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+            MessageBoxResult result = MessageBox.Show($"Bạn có chắc chắn muốn xóa sp {product.ProductName} này ko?", "Xác nhận xóa",
+                MessageBoxButton.YesNo,
+                MessageBoxImage.Question);
+
+            if (result == MessageBoxResult.No)
+                return;
+            _context.Products.Remove(product);
+            _context.SaveChanges();
+
+            //Cập nhật lại TreeView và ListView sau khi xóa 
+            DisplayCategoriesAndProducts();
+           
+            Category category = _context.Categories.FirstOrDefault(c => c.CategoryId == product.CategoryId);
+            LoadProductListByCategory(category);
+
+        }
     }
 }

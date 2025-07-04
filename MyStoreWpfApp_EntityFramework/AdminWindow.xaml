@@ -45,8 +45,8 @@
 
                 <Button x:Name="btnNew" Content="New" FontSize="20" HorizontalAlignment="Left" Margin="115,190,0,0" VerticalAlignment="Top" Foreground="#FFE52E2E" Background="#FF7CED2E" Click="btnNew_Click"/>
                 <Button x:Name="btnSave" Content="Save" FontSize="20" HorizontalAlignment="Left" Margin="180,190,0,0" VerticalAlignment="Top" Foreground="#FFE52E2E" Background="#FF7CED2E" Click="btnSave_Click"/>
-                <Button x:Name="btnUpdate" Content="Update" FontSize="20" HorizontalAlignment="Left" Margin="243,190,0,0" VerticalAlignment="Top" Foreground="#FFE52E2E" Background="#FF7CED2E"/>
-                <Button x:Name="btnDelete" Content="Delete" FontSize="20" HorizontalAlignment="Left" Margin="335,190,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.689,0.733" Foreground="#FFE52E2E" Background="#FF7CED2E"/>
+                <Button x:Name="btnUpdate" Content="Update" FontSize="20" HorizontalAlignment="Left" Margin="243,190,0,0" VerticalAlignment="Top" Foreground="#FFE52E2E" Background="#FF7CED2E" Click="btnUpdate_Click"/>
+                <Button x:Name="btnDelete" Content="Delete" FontSize="20" HorizontalAlignment="Left" Margin="335,190,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.689,0.733" Foreground="#FFE52E2E" Background="#FF7CED2E" Click="btnDelete_Click"/>
             </Grid>
         </DockPanel>
 
