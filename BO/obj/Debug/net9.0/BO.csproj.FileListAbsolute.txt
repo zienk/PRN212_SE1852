@@ -1,0 +1,12 @@
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\bin\Debug\net9.0\BO.deps.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\bin\Debug\net9.0\BO.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\bin\Debug\net9.0\BO.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.AssemblyInfoInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.AssemblyInfo.cs
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.csproj.CoreCompileInputs.cache
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.sourcelink.json
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\refint\BO.dll
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\BO.pdb
+C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\BO\obj\Debug\net9.0\ref\BO.dll

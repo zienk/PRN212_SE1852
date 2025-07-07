@@ -110,9 +110,6 @@ namespace MyStoreWpfApp_EntityFramework
             txtTen.Text = "";
             txtSoLuong.Text = "";
             txtDonGia.Text = "";
-
-
-
         }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
