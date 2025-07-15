@@ -22,6 +22,7 @@ namespace WPFApp_EntityFramework
     /// </summary>
     public partial class AdminWindow : Window
     {
+        AccountMember loginUser;
 
         IProductService _productService = new ProductService();
         ICategoryService _categoryService = new CategoryService();
@@ -29,9 +30,11 @@ namespace WPFApp_EntityFramework
         Category selected_category = null;
         bool is_load_product_completed = false;
 
-        public AdminWindow()
+        public AdminWindow(AccountMember accountMember)
         {
             InitializeComponent();
+
+            loginUser = accountMember;
 
             LoadCategoriesAndProductsIntoTreeView();
 
@@ -286,6 +289,13 @@ namespace WPFApp_EntityFramework
             txtTen.Text = p.ProductName;
             txtSoLuong.Text = p.UnitsInStock.ToString();
             txtDonGia.Text = p.UnitPrice.ToString();
+        }
+
+        private void menudoimatkhau_Click(object sender, RoutedEventArgs e)
+        {
+            ChangePasswordWindow changePasswordWindow = new ChangePasswordWindow(loginUser);
+            changePasswordWindow.Show();
+
         }
     }
 }

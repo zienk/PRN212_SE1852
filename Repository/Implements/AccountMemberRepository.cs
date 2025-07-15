@@ -13,6 +13,9 @@ namespace Repository.Implements
     {
         AccountMemberDAO _accDAO = new AccountMemberDAO();
 
+        public bool ChangePassword(AccountMember accountMember, string newPassword)
+            => _accDAO.ChangePassword(accountMember, newPassword);
+
         public AccountMember Login(string username, string password)
         {
             return _accDAO.Login(username, password);

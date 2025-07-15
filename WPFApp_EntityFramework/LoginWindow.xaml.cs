@@ -50,7 +50,7 @@ namespace WPFApp_EntityFramework
             }
             else if (loginUser.MemberRole == 1)
             {
-                AdminWindow adminWindow = new AdminWindow();
+                AdminWindow adminWindow = new AdminWindow(loginUser);
                 adminWindow.Show();
                 Close();
             }

@@ -9,6 +9,7 @@ namespace Service.Interfaces
 {
     public interface IAccountMemberService
     {
-        public AccountMember Login(string username, string password);
+        AccountMember Login(string username, string password);
+        bool ChangePassword(AccountMember accountMember, string newPassword);
     }
 }

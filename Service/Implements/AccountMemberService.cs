@@ -20,6 +20,9 @@ namespace Service.Implements
             _accRepo = new AccountMemberRepository();
         }
 
+        public bool ChangePassword(AccountMember accountMember, string newPassword)
+            => _accRepo.ChangePassword(accountMember, newPassword);
+
         public AccountMember Login(string username, string password)
         {
             return _accRepo.Login(username, password);

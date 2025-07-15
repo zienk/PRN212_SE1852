@@ -9,6 +9,20 @@
 
     <DockPanel>
 
+        <Menu x:Name="mainmenu" DockPanel.Dock="Top">
+            <MenuItem Header="Hệ thống">
+                <MenuItem Header="Đổi mật khẩu" Name="menudoimatkhau" Click="menudoimatkhau_Click">
+                    
+                </MenuItem>
+                
+                <MenuItem Header="Thông tin tài khoản">
+                    
+                </MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Thoát phần mềm"></MenuItem>
+            </MenuItem>
+        </Menu>
+        
         <WrapPanel DockPanel.Dock="Top" Height="50" Background="Yellow">
             <Label Content="Hệ thống ADMIN quản trị STORE" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         </WrapPanel>
