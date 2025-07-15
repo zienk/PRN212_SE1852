@@ -13,6 +13,9 @@ namespace Repository.Implements
     {
         ProductDAO _productDAO = new ProductDAO();
 
+        public bool DeleteProduct(int productId)
+            => _productDAO.DeleteProduct(productId);
+
         public List<Product> GetProducts()
         {
             return _productDAO.GetProducts();
@@ -22,5 +25,11 @@ namespace Repository.Implements
         {
             return _productDAO.GetProductsByCategory(categoryId);
         }
+
+        public bool SaveProduct(Product product)
+            => _productDAO.SaveProduct(product);
+
+        public bool UpdateProduct(Product product)
+            => _productDAO.UpdateProduct(product);
     }
 }

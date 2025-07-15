@@ -46,11 +46,9 @@ C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_E
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
-C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Memory.Data.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
-C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\System.Text.Json.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\MyStoreWpfApp_EntityFramework\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll

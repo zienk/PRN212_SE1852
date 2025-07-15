@@ -92,6 +92,8 @@ namespace MyStoreWpfApp_EntityFramework
 
             Product p = e.AddedItems[0] as Product;
 
+            if (p == null) return;
+
             txtMa.Text = p.ProductId.ToString();
             txtTen.Text = p.ProductName;
             txtSoLuong.Text = p.UnitsInStock.ToString();

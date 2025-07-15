@@ -19,6 +19,9 @@ namespace Service.Implements
             _productRepo = new ProductRepository();
         }
 
+        public bool DeleteProduct(int productId)
+            => _productRepo.DeleteProduct(productId);
+
         public List<Product> GetProducts()
         {
             return _productRepo.GetProducts();
@@ -28,5 +31,11 @@ namespace Service.Implements
         {
             return _productRepo.GetProductsByCategory(categoryId);
         }
+
+        public bool SaveProduct(Product product)
+            => _productRepo.SaveProduct(product);
+
+        public bool UpdateProduct(Product product)
+            => _productRepo.UpdateProduct(product);
     }
 }

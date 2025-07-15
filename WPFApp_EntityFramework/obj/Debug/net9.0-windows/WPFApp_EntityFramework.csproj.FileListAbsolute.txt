@@ -30,11 +30,9 @@ C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFr
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.ClientModel.dll
-C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.Formats.Asn1.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.Memory.Data.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
-C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\System.Text.Json.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\zienk\Desktop\SU2025\PRN212\CODE_TREN_LOP\PRN212_SE1852\WPFApp_EntityFramework\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll

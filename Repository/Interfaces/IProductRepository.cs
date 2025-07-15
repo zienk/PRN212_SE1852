@@ -9,7 +9,10 @@ namespace Repository.Interfaces
 {
     public interface IProductRepository
     {
-        public List<Product> GetProducts();
-        public List<Product> GetProductsByCategory(int categoryId);
+        List<Product> GetProducts();
+        List<Product> GetProductsByCategory(int categoryId);
+        bool SaveProduct(Product product);
+        bool UpdateProduct(Product product);
+        bool DeleteProduct(int productId);
     }
 }
